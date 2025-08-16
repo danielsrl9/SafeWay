@@ -20,3 +20,4 @@ Este é um protótipo inicial (MVP), ideal para testes e desenvolvimento, sem in
 
 ---
 
+© 2025 Daniel Soares. Todos os direitos reservados.
