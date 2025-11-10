@@ -139,5 +139,3 @@ void printSensorData(float acc_total, float gyro_total, sensors_event_t accel_ev
   Serial.print(gyro_total, 2);
   Serial.println(" deg/s");
 }
-
-seria muito ruim se o código completo fosse feito com IA?
